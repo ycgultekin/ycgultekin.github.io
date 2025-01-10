@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "News"
+sitemap: true
 permalink: /cv/
 author_profile: true
 redirect_from:
