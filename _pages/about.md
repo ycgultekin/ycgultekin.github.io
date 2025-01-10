@@ -13,6 +13,6 @@ I received the B.Sc. and the M.Sc. degrees from the [Middle East Technical Unive
 
 My research has received multiple awards, including Best Paper awards at the 2018 WIC/IEEE Symposium on Information Theory and Signal Processing in the Benelux and at the 2022 Optica Advanced Photonics Congress, a 2023 Quantum Delta NL [exchange visit](https://quantumdelta.nl/news/qdnl-visitor-s-programme-update-yunus-can-gueltekin-and-fenglei-gu) grant, and a 2024 International Excellence Fellowship from the Karlsruhe Institute of Technology (KIT). My technical expertise and research interests lie in the intersection of information theory and communication theory, with a particular focus on the design of coded modulation and constellation shaping techniques for wireless/optical communications.
 
-# Publications: [Google Scholar profile](https://scholar.google.com/citations?user=DR-H9sgAAAAJ&hl=en&oi=ao)
+
 
 
