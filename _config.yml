@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "ycg_bio-photo.jpg"
+  name             : "Yunus Can Gültekin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Senior researcher"
+  location         : "The Netherlands"
+  employer         : "Eindhoven University of Technology"
   uri              : # URL
   email            : "none@example.org" 
 
