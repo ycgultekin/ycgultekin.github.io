@@ -2,7 +2,7 @@
 layout: archive
 title: "News"
 sitemap: true
-permalink: /cv/
+permalink: /news/
 author_profile: true
 redirect_from:
   - /resume
