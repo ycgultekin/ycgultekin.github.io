@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News"
+title: "Recent News"
 sitemap: true
 permalink: /news/
 author_profile: true
