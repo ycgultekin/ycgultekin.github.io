@@ -10,8 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-**2025, January:** I received an [NWO](https://www.nwo.nl/en) (Dutch Research Council) [NGF AINed XS grant](https://www.nwo.nl/en/news/last-ten-research-projects-launched-for-ngf-ained-europa-xs). The project (AI-SUSAT) will cover the application of AI to underwater satellite communications in collaboration with The Centre Tecnològic de Telecomunicacions de Catalunya (CTTC), located in Barcelona, Spain.
+**2025, March:** I visited Communications Engineering Lab (CEL) for three weeks as part of the KIT International Excellence Fellowship programme. Our paper [On the Design and Performance of Machine Learning Based Error Correcting Decoders](https://arxiv.org/abs/2410.15899) was also presented at [SCC 2025](https://scc2025.net/) organised by KIT in Karlsruhe, Germany.
 
+**2025, January:** I received an [NWO](https://www.nwo.nl/en) (Dutch Research Council) [NGF AINed XS grant](https://www.nwo.nl/en/news/last-ten-research-projects-launched-for-ngf-ained-europa-xs). The project (AI-SUSAT) will cover the application of AI to underwater satellite communications in collaboration with The Centre Tecnològic de Telecomunicacions de Catalunya (CTTC), located in Barcelona, Spain.
 
 **2024, July:** We organized [2024 IEEE European School of Information Theory](http://www.tue-ictlab.nl/page/3) in Eindhoven, the Netherlands.
 
