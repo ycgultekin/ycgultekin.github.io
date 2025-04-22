@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+**2025, April:** ICT Lab had a strong presence at OFC 2025 with 6 papers: Tu2F.6, W1K.1, W1K.2, W1K.5, W4H.2, and Th1K.8. Our paper ``On Geometric Shaping for 400 Gbps IM-DD Links with Laser Intensity Noise'' (Th1K.8) is a result of our collaboration with Marvell Technology (USA).
+
 **2025, March:** I visited Communications Engineering Lab (CEL) for three weeks as part of the KIT International Excellence Fellowship programme. Our paper [On the Design and Performance of Machine Learning Based Error Correcting Decoders](https://arxiv.org/abs/2410.15899) was also presented at [SCC 2025](https://scc2025.net/) organised by KIT in Karlsruhe, Germany.
 
 **2025, January:** I received an [NWO](https://www.nwo.nl/en) (Dutch Research Council) [NGF AINed XS grant](https://www.nwo.nl/en/news/last-ten-research-projects-launched-for-ngf-ained-europa-xs). The project (AI-SUSAT) will cover the application of AI to underwater satellite communications in collaboration with The Centre Tecnològic de Telecomunicacions de Catalunya (CTTC), located in Barcelona, Spain.
