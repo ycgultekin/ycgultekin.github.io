@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-**2025, July:** Our paper ``[On Error Rate Approximations for FSO Systems with Weak Turbulence and Pointing Errors](https://ieeexplore.ieee.org/abstract/document/11083585)'' is published in the IEEE Journal of Selected Topics in Quantum Electronics ([arXiv](https://arxiv.org/abs/2506.19627)). This work is a part of the project [BIT-FREE](https://research.tue.nl/en/projects/hybrid-coded-modulation-for-reliable-and-power-efficient-coherent) funded by NWO via the Open Technology Programme.
+**2025, July:** Our paper ``[On Error Rate Approximations for FSO Systems with Weak Turbulence and Pointing Errors](https://ieeexplore.ieee.org/abstract/document/11083585)'' ([arXiv](https://arxiv.org/abs/2506.19627)) is published in the IEEE Journal of Selected Topics in Quantum Electronics. This work is a part of the project [BIT-FREE](https://research.tue.nl/en/projects/hybrid-coded-modulation-for-reliable-and-power-efficient-coherent) funded by NWO via the Open Technology Programme.
 
-**2025, April:** ICT Lab had a strong presence at OFC 2025 with 6 papers: Tu2F.6, W1K.1, W1K.2, W1K.5, W4H.2, and Th1K.8. Our paper ``On Geometric Shaping for 400 Gbps IM-DD Links with Laser Intensity Noise'' (Th1K.8) is a result of our collaboration with Marvell Technology (USA).
+**2025, April:** ICT Lab had a strong presence at OFC 2025 with 6 papers: Tu2F.6, W1K.1, W1K.2, W1K.5, W4H.2, and Th1K.8. Our paper ``[On Geometric Shaping for 400 Gbps IM-DD Links with Laser Intensity Noise](https://ieeexplore.ieee.org/document/11046783)'' (Th1K.8, [arXiv](https://arxiv.org/abs/2504.17433)) is a result of our collaboration with Marvell Technology (USA).
 
 **2025, March:** I visited Communications Engineering Lab (CEL) for three weeks as part of the KIT International Excellence Fellowship programme. Our paper [On the Design and Performance of Machine Learning Based Error Correcting Decoders](https://arxiv.org/abs/2410.15899) was also presented at [SCC 2025](https://scc2025.net/) organised by KIT in Karlsruhe, Germany.
 
