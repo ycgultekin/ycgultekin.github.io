@@ -10,6 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+**2025, November:** I visited Centre Tecnològic de Telecomunicacions de Catalunya (CTTC) as part of the AI-SUSAT project and gave a seminar.
+
+**2025, November-December:** I visited Communications Engineering Lab (CEL) for three weeks as part of the KIT International Excellence Fellowship programme.
+
 **2025, November:** With Hamdi Joudeh, we are organizing the [2025 van der Meulen Seminar](https://www.tue-ictlab.nl/page/10) at TU Eindhoven on Monday, 24 November. The theme is Shannon theory. The registration is free. 
 
 **2025, September:** ICT Lab will present 4 papers at [ECOC 2025](https://ecoc2025.org/): W.01.04.2, W.01.05.4, W.02.01.56, and W.02.01.75. Our paper "[Lowering Error Floors for Hard Decision Decoding of OFEC Code](https://arxiv.org/abs/2507.12155)" (W.01.04.2) is a part of the project [BIT-FREE](https://research.tue.nl/en/projects/hybrid-coded-modulation-for-reliable-and-power-efficient-coherent) funded by NWO via the Open Technology Programme. Our paper "[A New 5-bit/2D-symbol Modulation Format for Relative Intensity Noise-dominated IM-DD Systems](https://arxiv.org/abs/2506.01761)" (W.02.01.56) is a result of our collaboration with Marvell Technology (USA).
