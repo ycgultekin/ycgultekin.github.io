@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+**2025, December:** I visited Middle East technical University (METU), Ankara, Turkey, and gave a seminar.
+
 **2025, November:** I visited Centre Tecnològic de Telecomunicacions de Catalunya (CTTC) as part of the AI-SUSAT project and gave a seminar.
 
 **2025, November-December:** I visited Communications Engineering Lab (CEL) for three weeks as part of the KIT International Excellence Fellowship programme.
